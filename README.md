@@ -1,1 +1,1 @@
-# todo-app-built-using-JavaScript
+# Todo application built using JavaScript
